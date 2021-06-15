@@ -1,0 +1,26 @@
+### Hi, I'm Maksim Tikhonenko 👋
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=MaxTihon&show_icons=true&count_private=true"><img height=150
+       src="https://github-readme-stats.vercel.app/api?username=MaxTihon&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/MaxTihon/github-readme-stats"><img height=150
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTihon&layout=compact"/></a>
+</p>
+
+<p align='center'>
+   📫 How to reach me: <a href='mailto:maksim9542@gmail.com'>maksim9542@gmail.com</a>
+</p>
+<!--
+**MaxTihon/MaxTihon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
